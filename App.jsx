@@ -1,0 +1,1 @@
+[Insert final frontend code from 'Stock Insight App' textdoc]
